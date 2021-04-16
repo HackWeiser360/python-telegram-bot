@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: telegram
+Source: https://github.com/HackWeiser360/python-telegram-bot
+
+Files: *
+Copyright: 2020 HackWeiser360
+License: MIT
+
+Files: debian/*
+Copyright: 2020 HackWeiser360 
+License: MIT
