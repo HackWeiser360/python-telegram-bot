@@ -148,6 +148,8 @@ Getting help
 </a>
 <a href="https://twitter.com/503_madmax" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-
+</a>
+<a href="https://www.instagram.com/madmax4708/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 ### Stargazers
 [![Stargazers repo roster for @HackWeiser360/python-telegram-bot](https://reporoster.com/stars/HackWeiser360/python-telegram-bot)](https://github.com/HackWeiser360/python-telegram-bot)
